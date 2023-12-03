@@ -71,6 +71,14 @@
 				"D:/DaudiSigurds_Git/Content/Marta/TestCharacter/SpriteSheets/SideIdleL.uasset",
 				"D:/DaudiSigurds_Git/Content/Marta/TestCharacter/SpriteSheets/SideWalkL.uasset",
 				"D:/DaudiSigurds_Git/Content/Marta/TestCharacter/SpriteSheets/BluePrints/Player/AS_Player.uasset",
+				"D:/DaudiSigurds_Git/Content/Marta/TestCharacter/SpriteSheets/BluePrints/Player/AnimSequences/IdleFront.uasset",
+				"D:/DaudiSigurds_Git/Content/Marta/TestCharacter/SpriteSheets/BluePrints/Player/ABP_Player.uasset",
+				"D:/DaudiSigurds_Git/Content/Marta/TestCharacter/SpriteSheets/BluePrints/Player/BP_Player.uasset",
+				"D:/DaudiSigurds_Git/Content/Defender/Demo/Levels/LevelDialogueBlockout.umap",
+				"D:/DaudiSigurds_Git/Content/Marta/TestCharacter/SpriteSheets/BluePrints/Player/AnimSequences/WalkFront.uasset",
+				"D:/DaudiSigurds_Git/Content/Marta/TestCharacter/SpriteSheets/BluePrints/GM_Base.uasset",
+				"D:/DaudiSigurds_Git/Content/Marta/TestCharacter/SpriteSheets/BluePrints/Player/AnimSequences/FrontWalk.uasset",
+				"D:/DaudiSigurds_Git/Content/Marta/TestCharacter/SpriteSheets/BluePrints/Player/AnimSequences/FrontIdle.uasset",
 				"C:/Users/julia/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Daudi-Sigurds/Content/Defender/Demo/Levels/LevelDialogueBlockout.umap"
 			]
 		}
