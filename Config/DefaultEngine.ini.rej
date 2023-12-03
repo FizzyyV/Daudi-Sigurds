@@ -1,0 +1,10 @@
+diff a/Config/DefaultEngine.ini b/Config/DefaultEngine.ini	(rejected hunks)
+@@ -11,7 +11,7 @@
+ AppliedDefaultGraphicsPerformance=Maximum
+ 
+ [/Script/EngineSettings.GameMapsSettings]
+-GlobalDefaultGameMode=/Game/Defender/Blueprints/BP_GameModeTest.BP_GameModeTest_C
++GlobalDefaultGameMode=/Game/Marta/TestCharacter/SpriteSheets/BluePrints/GM_Base.GM_Base_C
+ EditorStartupMap=/Game/Defender/Demo/Levels/LevelDialogueBlockout.LevelDialogueBlockout
+ GameDefaultMap=/Game/Defender/Demo/Levels/LevelDialogueBlockout.LevelDialogueBlockout
+ GameInstanceClass=/Script/Engine.GameInstance
